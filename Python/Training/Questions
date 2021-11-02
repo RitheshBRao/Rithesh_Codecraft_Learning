@@ -1,0 +1,165 @@
+can we declare class as private
+
+Can we declare an abstract class without abstract methods
+
+Dynamic Binding or Late Binding is:
+
+  Connecting the method and the parameters
+
+  Because of overridden method and the use of the appropriate method during execution
+
+  Because of overloaded methods
+
+  When formal parameters and actual parameters differ
+
+ What is the order of access modifiers in JAVA ?
+
+  private - protected - public - default
+
+  private - default - protected- public
+
+  default - public - protected- private
+
+  private - default - public - protected
+
+
+ Interfaces can contain _________________ and _____________________ and abstract classes can contain _____________________ ,  ______________________and at least ___  ____________________________________   __________________
+
+  Variables, constants,abstract methods and non abstract methods
+
+  Abstract methods,constants,instance variables, implemented methods and one abstract method
+
+  Constants, implemented methods, variables, abstract methods, overridden methods
+     Mark For Review     
+-------
+
+What is an abstract class?
+   An abstract class is one without any child classes
+
+  An abstract class is any parent class with more than one child class
+
+  An abstract class is a class which has at least one abstract method which cannot be instantiated.
+
+  Is a "base class"
+     Mark For Review     
+--------
+Does interface set an example for 100% abstraction?
+
+  True
+
+  False
+--------
+Access modifier protected sets an example for encapsulation
+
+  True
+
+  False
+--------
+
+Does a subclass that extends an abstract class have to give implementation to all the abstract methods of the superclass?
+
+  Not necessarily if the sub class is going to be declared abstract
+
+  Yes-an abstract parent must have abstract children
+
+  No--an abstract parent mu have no children at all
+
+  Yes --all children of an abstract parent must be non-abstract
+
+--------
+
+What are the applicable access modifiers for the local variable?
+
+  Default
+
+  Private
+
+  Final
+
+  Public
+
+--------
+
+An abstract method cannot have a return type. True or false? 
+
+  True
+
+  False
+
+  -------
+
+  Can an abstract class define both abstract methods and non-abstract methods?
+
+  Yes - the child classes will inherit both
+
+  Yes - but the child classes do not inherit the abstract methods
+
+  No--it must have all abstract methods
+
+  No--it must have all one or the other
+
+  -------
+
+  Can an interface have a class on top?
+
+  True
+
+  False
+
+  -------
+
+  Which is correct?
+
+  Abstract class extend a concrete class, interface and abstract class
+
+  Abstract class implements an abstract class and interface
+
+  Abstract class extends an abstract class and implements an interface
+
+  Abstract class extends a concrete class and implements abstract class.
+     Mark For Review     
+
+     ----------
+
+     Can an interface implement another interface? 
+
+  True
+
+  False
+
+  -------------
+
+ What is an interface?
+
+  A class with at least one abstract methods
+
+  A collection of abstract methods and constants
+
+   A super class with abstract method
+
+  A sub class with abstract method
+
+
+  -------------
+
+  What is an abstract method?
+
+  is any method in an abstract class
+
+  Is a method which cannot be inherited
+
+  A method which is not implemented. The implementation for this method needs to be done in a non abstract class which extends this class.
+
+  is a method in the child class that overrids a parent method
+
+  -------------
+
+  In order for the following code to be correct, what must be the type of the reference variable card? ____________________ card; card=new Valentine("Joe",14); card=new Holiday("Bob"); card=new Birthday("Emily",12);
+
+  Valentine
+
+  Holilday
+
+  Birthday
+
+  Card
