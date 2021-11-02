@@ -1,0 +1,68 @@
+Flutter
+
+
+C:\Users\RitheshB\AndroidStudioProjects
+
+
+Android Home
+
+C:\Users\RitheshB\AppData\Local\Android\Sdk
+
+Appium:
+JAVA Home
+C:\Program Files\Java\jdk-15.0.1
+
+Flutter:
+JAVA Home
+C:\Program Files\Android\Android Studio\jre
+
+Hot Reload
+https://flutter.dev/docs/development/tools/hot-reload
+
+-----------
+
+An unknown server-side error occurred while processing the command. Original error: The instrumentation process cannot be initialized. Make sure the application under test does not crash and investigate the logcat output.
+
+{
+  "deviceName": "JCAAGF04C267VTV",
+  "platformName": "android",
+  "appPackage": "com.asus.calculator",
+  "appActivity": ".Calculator",
+  "noReset": false
+}
+
+------------------------------------------------------------
+
+Add  APP local path
+
+1.15 hour -> Appium server Auto run
+
+
+2.05 hour -> landing page
+
+25-05-2021
+
+
+
+Jane 5987461358
+
+carousel
+
+dragdrop
+
+pinchzoom
+
+-----------------------------------------------------
+
+The following NoSuchMethodError was thrown building NoteList(dirty, state: NoteListState#cdbe8):
+The method 'initializeDatabase' was called on null.
+Receiver: null
+Tried calling: initializeDatabase()
+
+
+Navigator.pop(context);
+Navigator.pop(context);
+
+MaterialPageRoute(builder: (context)){return Homeoage}
+
+
